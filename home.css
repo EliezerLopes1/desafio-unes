@@ -1,0 +1,45 @@
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 215px;
+}
+
+#header ul{
+    list-style: none;
+    display: flex;
+}
+
+#header ul li {
+    margin: 0 3px 0 3px;
+}
+#capa{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+#texto{
+    padding: 20px 215px;
+    text-align: justify;
+}
+
+#texto2{
+    display: flex;
+    justify-content: center
+}
+#texto3{
+    padding: 0px 215px;
+}
+
+#texto4{
+    padding: 0px 240px;
+}
+
+#linha{
+    padding: 0px 215px;
+}
+#texto5{
+    
+    padding: 10px 215px
+}
